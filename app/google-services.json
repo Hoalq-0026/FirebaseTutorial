@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1005797967976",
+    "firebase_url": "https://whysoserious-ad250.firebaseio.com",
+    "project_id": "whysoserious-ad250",
+    "storage_bucket": "whysoserious-ad250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005797967976:android:1c9d962124340268",
+        "android_client_info": {
+          "package_name": "com.quanghoa.apps.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005797967976-qsio9apopteq15uik6etl6m1rc70a0pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quanghoa.apps.firebase_authentication",
+            "certificate_hash": "d3562e8ffadef573d9fae721c89ffce0cdf912e8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5ghdBvDT4BPsSnJMIrXewsfsbmngKos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005797967976-cd5hs0cdkblfhhqkkph75q2cqnqe9cm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
